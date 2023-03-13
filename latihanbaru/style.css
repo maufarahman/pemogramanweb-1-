@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+* {
+  margin: 5;
+  padding: 2;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: whitesmoke;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(0, 0, 0);
+}
+nav {
+  display: flow-root;
+  align-items: center;
+  padding: 0.01%;
+  border-bottom: 0.1px solid;
+  position: static;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  z-index: 9999;
+}
+menu {
+  font-size: 2rem;
+  font-weight: 20px;
+  color: brown;
+  font-style: bold;
+}
+
+footer {
+  font-style: italic;
+  font-size: 20px;
+  color: darkslategray;
+}
+ul {
+  margin: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 15px;
+  position: static;
+}
